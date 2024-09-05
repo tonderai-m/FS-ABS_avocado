@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Data 
+# Remove unwanted data from git 
+*.csv
+
 # C extensions
 *.so
 
